@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Felipe 👋
 
-<!--
-**felipeportocruz/felipeportocruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Administration student in Rio Grande, Brazil, building software and automations that solve real operational problems.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Ficia** — a B2B consultancy that diagnoses business operations and builds software, automations and AI where they actually help.
+- **Phronesis** — a notes-first knowledge app with optional AI, designed for cognitive accessibility.
+- **Teu Bloco** — a carnival platform for ticket sales and real-time tracking of street blocks.
+- **KAITO** — ticketing, bar and club management for nightlife venues.
+
+## Stack
+
+TypeScript · React · Next.js · Node.js · Supabase · PostgreSQL · Python · n8n
+
+## Interests
+
+Applied AI, automation, data analysis, and using management knowledge to run businesses better.
+
+Most of my work is in private repositories, so this profile shows only a small part of it.
