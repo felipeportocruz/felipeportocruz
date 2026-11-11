@@ -11,7 +11,7 @@ Business Administration student in Rio Grande, Brazil, building software and aut
 
 ## Stack
 
-TypeScript · React · Next.js · Node.js · Supabase · PostgreSQL · Python · n8n
+TypeScript · React · Next.js · Node.js ·PostgreSQL · Python · n8n
 
 ## Interests
 
