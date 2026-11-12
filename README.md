@@ -30,4 +30,4 @@ Technical Capabilities
 
 Let's Talk Business
 
-LinkedIn: [linkedin.com/in/SEU-LINKEDIN](www.linkedin.com/in/felipeportocruz)
+LinkedIn: [linkedin.com/in/SEU-LINKEDIN]( www.linkedin.com/in/felipeportocruz )
