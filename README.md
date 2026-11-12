@@ -28,6 +28,3 @@ Technical Capabilities
 *Software Engineering:* TypeScript · Node.js · React · Next.js · Python
 *Data & Infrastructure:* PostgreSQL · SQL · REST APIs · Real-Time Data Streams
 
-Let's Talk Business
-
-LinkedIn: [linkedin.com/in/SEU-LINKEDIN]( www.linkedin.com/in/felipeportocruz )
