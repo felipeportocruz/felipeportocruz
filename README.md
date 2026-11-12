@@ -1,20 +1,33 @@
-# Hi, I'm Felipe 👋
+# Felipe Porto
 
-Business Administration student in Rio Grande, Brazil, building software and automations that solve real operational problems.
+*Business Operations & Applied AI Architect* 
+*Rio Grande, RS — Brasil*
 
-## What I'm working on
+Most software fails because it is built without understanding the business operation behind it.  
+I bridge the gap between **Business Administration** and **Software Engineering**—analyzing processes, identifying bottlenecks, and deploying custom software and AI automations that directly impact revenue and operational efficiency.
 
-- **Ficia** — a B2B consultancy that diagnoses business operations and builds software, automations and AI where they actually help.
-- **Phronesis** — a notes-first knowledge app with optional AI, designed for cognitive accessibility.
-- **Teu Bloco** — a carnival platform for ticket sales and real-time tracking of street blocks.
-- **KAITO** — ticketing, bar and club management for nightlife venues.
 
-## Stack
+How I Help Businesses Scale
 
-TypeScript · React · Next.js · Node.js ·PostgreSQL · Python · n8n
+*Operational Diagnosis & Process Mapping:* Analyzing workflows, cost centers, and human bottlenecks before writing a single line of code.
+*ommercial & Customer Service Automation:* Designing intelligent, 24/7 triage and sales pipelines using Applied AI and messaging APIs.
+*Systems Integration & Data Flow:* Connecting ERPs, CRMs, payment gateways, and internal databases so information moves without manual rework.
+*Custom Internal Tools:* Building lightweight, high-impact web applications tailored to how your team actually works on the ground.
 
-## Interests
 
-Applied AI, automation, data analysis, and using management knowledge to run businesses better.
+ The Methodology: Management Meets Engineering
 
-Most of my work is in private repositories, so this profile shows only a small part of it.
+1. **Understand the Business:** Map the real bottleneck (time wasted, lost leads, manual data entry, or operational blind spots).
+2. **Simplify the Process:** Eliminate unnecessary steps using lean management principles.
+3. **Automate & Scale:** Deploy reliable code, workflows, and AI agents only where they generate measurable ROI.
+
+
+
+Technical Capabilities
+*Automation & AI:* Applied LLMs · Autonomous Agents · n8n · Webhook Orchestration · Prompt Engineering
+*Software Engineering:* TypeScript · Node.js · React · Next.js · Python
+*Data & Infrastructure:* PostgreSQL · SQL · REST APIs · Real-Time Data Streams
+
+Let's Talk Business
+
+LinkedIn: [linkedin.com/in/SEU-LINKEDIN](www.linkedin.com/in/felipeportocruz)
